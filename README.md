@@ -1,2 +1,3 @@
 # pyangles
-# pyangles
+
+pip install pyangles
